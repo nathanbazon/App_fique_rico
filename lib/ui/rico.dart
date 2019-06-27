@@ -12,7 +12,7 @@ class Rico extends StatefulWidget {
 //classe interna do tipo State, que recebe a Class Rico
 class _RicoState extends State<Rico> {
 
-  double _contador = 10;
+  double _contador = 6;
 
   void _showDialog()
   {
